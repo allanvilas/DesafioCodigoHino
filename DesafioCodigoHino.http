@@ -1,0 +1,6 @@
+@DesafioCodigoHino_HostAddress = http://localhost:5200
+
+GET {{DesafioCodigoHino_HostAddress}}/
+Accept: application/json
+
+###
